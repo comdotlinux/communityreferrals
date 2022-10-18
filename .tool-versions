@@ -1,0 +1,5 @@
+#Java needed to build the docker images
+java temurin-17.0.4+101
+github-cli 2.16.1
+hasura-cli 2.13.0
+yq 4.27.5
